@@ -14,7 +14,9 @@ This project was completed as part of Udacity's [Data Scientist Nanodegree](http
 
 ## Data Origin
 
-xxx
+The dataset is the World's fact sheet including information on population, region, area size, infant mortality and more from [CIA World Factbook 2013](http://gsociology.icaap.org/dataupload.html).
+
+The data comes from the US government and as stated in Their [website](https://www.cia.gov/library/publications/the-world-factbook/docs/faqs.html) it "may be used freely by anyone at anytime without seeking permission".
 
 ## Tools, Software and Libraries
 
