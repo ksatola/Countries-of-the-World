@@ -22,4 +22,4 @@ xxx
 
 ## Results
 
-My answers to the questions above can be found the [this blog post](blank). The technical details are covered in a [Jupyter Notebook]() (here is its [HTML version](blank).
+My answers to the questions above can be found the [this blog post](blank). The technical details are covered in a [Jupyter Notebook]() (here is its [HTML version](blank)).
