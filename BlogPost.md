@@ -29,37 +29,37 @@ Going further, some interesting questions arise: What are the distinguishing tra
 
 <img src="./pics/gdp.png" width="800" height="300" />
 
-Within the Group A regions, Eastern European countries are the poorest ones which is represented by a hump in the left slope of the Europe's distribution. North America countries seem to be more left skewed towards higher GDP. The majority of Group A countries have GDP above 20000. The The Luxemburg's GDP of 55100 stays above all. This is a very good result for this small European country. 
+- Within the Group A regions, Eastern European countries are the poorest ones which is represented by a hump in the left slope of the Europe's distribution. North America countries seem to be more left skewed towards higher GDP. The majority of Group A countries have GDP above 20000. Luxemburg's GDP of 55100 stays above all. This is a very good result for this small European country. 
 
-The Group B regions tend to have right-skewed distributions of countries' GDP with Africa having the lowest GDP of all, then Asia and the best of them Middle East. The long right tail represents the wealthier countries withing the poorer regions like Australia, Hong Kong, Japan or Singapure having GDP on the European level. For the Group B regions, we will focus on poorer countries only to see what should be their economical focus in order to catch up the Group A regions or leading countries within Group B.
+- The Group B regions tend to have right-skewed distributions of countries' GDP with Africa having the lowest GDP of all, then Asia and the best of them Middle East. The long right tail represents the wealthier countries withing the poorer regions like Australia, Hong Kong, Japan or Singapure having GDP on the European level. For now on, for the Group B regions, I will focus on poorer countries only to see what should be their economical focus in order to catch up the Group A regions or leading countries within Group B regions.
 
 So, what are exactly the differences in the world's data regarding wealthier and poorer regions? Let's find out by comparing selected economic attributes: literacy, agriculture, industry, and service. 
 
-#### Literacy
+### Literacy
 
 Literacy is the ability to read and write.
 
 ![Image](./pics/literacy.png)
 
-Literacy seems to be one of the big differentiators. Group A regions has literacy level above 85% of the population with the worst results by Albania (86.5%), Malta (92.80%) and Serbia (93%), whereas Group B starts from 17.5% (Niger) and many other African, Middle East or Oceania countries way below 80%.
+Literacy seems to be one of the biggest differentiators. Group A regions have literacy level above 85% of the population with the worst results by Albania (86.5%), Malta (92.80%) and Serbia (93%), whereas Group B starts from 17.5% (Niger) and many other African, Middle East or Oceania countries way below 80%.
 
-The Group B should focus on improving education level of their population leading to more innovative societes. More educated people would have easier access to knowledge (the Internet, books). It would be easier to them to exchange and implement other nations' ideas leading to prosperity and further educational growth.
+The Group B countries should focus on improving education level of their population leading to more innovative societes. More educated people would have easier access to knowledge (the Internet with Udacity courses, books). It would be easier for them to exchange with and implement other nations' ideas leading to prosperity and further educational growth.
 
-#### Agriculture
+### Agriculture
 
-The agriculture world data indicator is percentage of GDP sector composition ratio for agriculture economy sector. Agriculture indicator, together with the other two: Industry and Service, constitute 100% of GDP of a country.
+The agriculture world data indicator is percentage of GDP sector composition ratio for agriculture economy sector. The agriculture indicator, together with the other two: industry and service, constitute 100% of GDP of a nation.
 
 ![Image](./pics/agriculture.png)
 
-Agriculture in more developed countries takes only a fraction of a small portion of their GDP per capita. All Group A countries have agriculture indicator value below 27% with the more developed countries below the ratio of 5%.
+Agriculture in more developed countries takes only a fraction of a small portion of their GDP per capita. All Group A countries have agriculture indicator value below 27% with the more developed countries even below 5%.
 
-In the Group B, we can notice that the percentage of GDP agriculture ration is more significant. Countries like Liberia (77%), Somallia (65%) or Guinea-Bissau (62%) take the lead here.
+In the Group B, we can notice that the percentage of GDP agriculture ratio is more significant. Countries like Liberia (77%), Somallia (65%) or Guinea-Bissau (62%) take the lead here.
 
-The low ratio does not necessarily mean that more developed countries have worse agriculture indicators, it rather means that other economy sectors (Industry or Service) take precedence in influencing their GDP being more profitable comparing to agriculture.
+The low ratio does not necessarily mean that more developed countries have worse agriculture indicators, it rather means that other economy sectors (industry or service) take precedence in influencing their GDP being more profitable comparing to agriculture.
 
-The Group B countries should focus on developing innovative industry and service sector to become more competitive. Having stronger industry and service sectors would also influence positively agriculture with more modern, productive an healhty treatment. 
+The Group B countries should focus on developing innovative industry and service sector to become more competitive. Having stronger industry and service sectors would also influence positively agriculture with more modern, productive and healhty environment. 
 
-#### Industry
+### Industry
 
 The Industry indicator shows the percentage of GDP sector composition ratio for industry economy sector.
 
@@ -69,27 +69,27 @@ Within groups, the data distributions overlap significantly meaning the economie
 
 From this high-level and simplified analysis, one could derive that more service-oriented economy would be the proposed direction for above 40% countries. The strong industry indicator in Group B countries may indicate that these countries are already on their way to get there, because the service-centric economies are also related to wealthier nations (positive correlation of 0.51 between GDP and Service economic factor). One way of becoming wealthier as a nation is to start with a strong industry sector.
 
-#### Service
+### Service
 
 A service economy is a nation that generates more value from services than other sectors such as agriculture and manufacturing.
 
 ![Image](./pics/service.png)
 
-Advanced economies are locked in a long term trend whereby services are becoming a greater percentage of economic output. In Europe, the least service developed economy is Ukraine (36%), in Northern America St. Pierre & Miquelon (57%). In Asia the index starts with the value of 0.26 (Laos), in Oceania 0.27 (Papua New Guinea), in Africa with 0.06 (Equatorial Guinea), Middle East with 0.20 (Qatar) and Latin America and the Caribbean with 0.42 (Trinidad & Tobago).
+Advanced economies are locked in a long term trend whereby services are becoming a greater percentage of economic output. In Europe, the least service developed economy is Ukraine (0.36), in Northern America St. Pierre & Miquelon (0.57). In Asia, the index starts with the value of 0.26 (Laos), in Oceania 0.27 (Papua New Guinea), in Africa with 0.06 (Equatorial Guinea), Middle East with 0.20 (Qatar) and Latin America and the Caribbean with 0.42 (Trinidad & Tobago).
 
-On the other side most service-oriented countries (in both Groups) are represented with values from above 70%.
+On the other side, most service-oriented countries (in both Groups) are represented with values from above 70%.
 
 ### Conclusion
 
-To summarize, the most successful regions in terms of wealth (GDP per capita) are (almost) 100% literate. Their nations seem to be more uniform in terms of the indicators. They have very strong service focused economy ratio and depending on different factors (like geography or size) their second characteristics are more agriculture or industry oriented. 
+To summarize, the most successful regions in terms of wealth (GDP per capita) are almost 100% literate. Their nations seem to be more uniform in terms of the indicators. They have very strong service focused economy ratio and depending on different factors (like geography or country size) their second characteristics are more agriculture or industry oriented. 
 
-The poorer regions, although having very stron nations as representatives (Australia, Japan, Hong Kong, to name a few) are more varied with a significant portion of countries with agriculture or industral economies and much work to do in terms of improving their nations' literacy.
+The poorer regions, although having very stron nations as representatives (Australia, Japan, Hong Kong, to name a few) vary more with a significant portion of countries with leading agriculture or industral economies and still much work to be done in terms of improving their nations' literacy.
 
-In order to catch up, the Group B regions should focus on education to speed up the development process and take the best technologies, environment-friendly approaches and economical mindsets from the Group A regions (plus leading nations in terms of GDP from Group B). In most cases they might have to take a long journey from pure agricultural societes, through industrial ones to the ones where the service sector plays the main role.
+In order to catch up, the Group B regions should focus on education to speed up the development process and take the best technologies, environment-friendly approaches and economical mindsets from the Group A regions (plus leading nations in terms of GDP from Group B). In most cases, they might have to take a long journey from pure agricultural societes, through industrial ones to the ones where the service sector plays the main role.
 
-As a last note, it is interesting to see how different regions on the same continent can be internally. For example, considering Europe, the West European countries have generally better GDP indicators than East European countires, which is due to longer period of prosperity, democratic or republic systems and consideration for the law. This draws the conclussion that in greater pace and chance of achieving success in building economical prosperity cultural, social and especially political situation plays an important role.
+As a last note, it is worth to see how different countries in the same region can differ internally. For example, considering Europe, the West European countries have generally better GDP indicators than East European countires, which is due to longer period of prosperity, democratic or republic systems and consideration for the law in case of West European countries. This draws the conclussion that in greater pace and chance of achieving success in building economical prosperity, cultural, social and especially political situation plays an important role.
 
-### 2. What can we do to limit infant mortality?
+## 2. What can we do to limit infant mortality?
 
 ![Image](./pics/infmortality.png)
 
