@@ -25,11 +25,9 @@ In the poorer regions there are also wealthy countries (like Australia in Oceani
 
 Going further, some interesting questions arise: What are the distinguishing traits of wealthy (A) and poor (B) regions? What should the poor regions focus on to become wealthier? Let's find out what our data say.
 
-![Image](./pics/gdp.png =100x20)
-
 ![Image](./pics/gdp.png)
 
-<img src="./pics/gdp.png" height="300" />
+<img src="./pics/gdp.png" width="800" height="300" />
 
 Within the Group A regions, Eastern European countries are the poorest ones which is represented by a hump in the left slope of the Europe's distribution. North America countries seem to be more left skewed towards higher GDP. The majority of Group A countries have GDP above 20000. The The Luxemburg's GDP of 55100 stays above all. This is a very good result for this small European country. 
 
