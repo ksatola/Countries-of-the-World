@@ -2,13 +2,11 @@
 
 ## Overview
 
-In this project, I explore [Countries of the Worlds Kaggle dataset](https://www.kaggle.com/fernandol/countries-of-the-world) to answer the following questions:
+In this project, I explore [Countries of the Worlds Kaggle dataset](https://www.kaggle.com/fernandol/countries-of-the-world) to answer the following questions in a blog post:
 
-1. sss
-2. sss
-3. sss
-
-Next, I write a post to ??? about my findings.
+1. Wealthy vs. Poor Regions, What is the Difference?
+2. What Can We Do to Limit Infant Mortality?
+3. Machine Learning: What are the most significant predictors determining country's GDP per capita, the key indicator of economic development of any country?
 
 This project was completed as part of Udacity's [Data Scientist Nanodegree](https://eu.udacity.com/course/data-scientist-nanodegree--nd025) certification.
 
@@ -21,6 +19,9 @@ The data comes from the US government and as stated in Their [website](https://w
 ## Tools, Software and Libraries
 
 xxx
+
+## Resources
+pliki used
 
 ## Results
 
