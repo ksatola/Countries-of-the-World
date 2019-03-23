@@ -25,6 +25,8 @@ In the poorer regions there are also wealthy countries (like Australia in Oceani
 
 Going further, some interesting questions arise: What are the distinguishing traits of wealthy (A) and poor (B) regions? What should the poor regions focus on to become wealthier? Let's find out what our data say.
 
+![Image](./pics/gdp.png =100x20)
+
 ![Image](./pics/gdp.png)
 
 <img src="./pics/gdp.png" height="300" />
