@@ -1,6 +1,6 @@
 # Exploring Countries of the World Dataset
 
-![Image](./pics/gdp_per_region_median.png)
+![Image](./blog/countries_intro.jpg)
 
 The world around us is fascinating and diverse. When I found out about the Countries of the World dataset I decided to take this opportunity to dig dipper inside it and answer a few questions which were in my mind:
 
@@ -28,8 +28,6 @@ Going further, some interesting questions arise: What are the distinguishing tra
 
 ![Image](./blog/gdp.png)
 
-<img src="./pics/gdp.png" width="800" height="300" />
-
 - Within the Group A regions, Eastern European countries are the poorest ones which is represented by a hump in the left slope of the Europe's distribution. North America countries seem to be more left skewed towards higher GDP. The majority of Group A countries have GDP above 20000. Luxemburg's GDP of 55100 stays above all. This is a very good result for this small European country. 
 
 - The Group B regions tend to have right-skewed distributions of countries' GDP with Africa having the lowest GDP of all, then Asia and the best of them Middle East. The long right tail represents the wealthier countries withing the poorer regions like Australia, Hong Kong, Japan or Singapure having GDP on the European level. For now on, for the Group B regions, I will focus on poorer countries only to see what should be their economical focus in order to catch up the Group A regions or leading countries within Group B regions.
@@ -40,7 +38,7 @@ So, what are exactly the differences in the world's data regarding wealthier and
 
 Literacy is the ability to read and write.
 
-![Image](./pics/literacy.png)
+![Image](./blog/literacy.png)
 
 Literacy seems to be one of the biggest differentiators. Group A regions have literacy level above 85% of the population with the worst results by Albania (86.5%), Malta (92.80%) and Serbia (93%), whereas Group B starts from 17.5% (Niger) and many other African, Middle East or Oceania countries way below 80%.
 
@@ -50,7 +48,7 @@ The Group B countries should focus on improving education level of their populat
 
 The agriculture world data indicator is percentage of GDP sector composition ratio for agriculture economy sector. The agriculture indicator, together with the other two: industry and service, constitute 100% of GDP of a nation.
 
-![Image](./pics/agriculture.png)
+![Image](./blog/agriculture.png)
 
 Agriculture in more developed countries takes only a fraction of a small portion of their GDP per capita. All Group A countries have agriculture indicator value below 27% with the more developed countries even below 5%.
 
@@ -64,7 +62,7 @@ The Group B countries should focus on developing innovative industry and service
 
 The Industry indicator shows the percentage of GDP sector composition ratio for industry economy sector.
 
-![Image](./pics/industry.png)
+![Image](./blog/industry.png)
 
 Within groups, the data distributions overlap significantly meaning the economies of the regions in terms of industry sector are within similar range (with a mean of 0.25 for Group A and 0.28 for Group B). Between the two groups, most of countries have similar values ranging from 2% (Jersey) to 50% (Ireland), nevertheless there is a long right tail within the Group B countires showing countries with the metric above 50%, like Samoa, (58%), Angola (66%), Qatar (80%) or Equatorial Guinea (91%).
 
@@ -74,7 +72,7 @@ From this high-level and simplified analysis, one could derive that more service
 
 A service economy is a nation that generates more value from services than other sectors such as agriculture and manufacturing.
 
-![Image](./pics/service.png)
+![Image](./blog/service.png)
 
 Advanced economies are locked in a long term trend whereby services are becoming a greater percentage of economic output. In Europe, the least service developed economy is Ukraine (0.36), in Northern America St. Pierre & Miquelon (0.57). In Asia, the index starts with the value of 0.26 (Laos), in Oceania 0.27 (Papua New Guinea), in Africa with 0.06 (Equatorial Guinea), Middle East with 0.20 (Qatar) and Latin America and the Caribbean with 0.42 (Trinidad & Tobago).
 
@@ -93,7 +91,7 @@ As a last note, it is worth to see how different countries in the same region ca
 ## 2. What can we do to limit infant mortality?
 Infant mortality is defined as the death of young children under the age of 1. This death toll is measured by the **Infant Mortality Rate (IMR)**, which is the number of deaths of children under one year of age per 1000 live births. 
 
-![Image](./pics/infmortality.png)
+![Image](./blog/infmortality.png)
 
 In the 21st century, in the age of robotics, genetics and sophisticated healthcare the infant mortality rate should be really low. But there are still countries in the world where on average 160 or more per 1000 infants die during the first year after birth (i.e. Angola - 191, Afganistan - 163 on average). This is especially true for regions like Asia and Africa.
 
