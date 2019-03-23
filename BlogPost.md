@@ -1,4 +1,5 @@
 # Exploring Countries of the World Dataset
+
 ![Image](./pics/gdp_per_region_median.png)
 
 The world around us is fascinating and diverse. When I found out about the Countries of the World dataset I decided to take this opportunity to dig dipper inside it and answer a few questions which were in my mind:
@@ -25,7 +26,7 @@ In the poorer regions there are also wealthy countries (like Australia in Oceani
 
 Going further, some interesting questions arise: What are the distinguishing traits of wealthy (A) and poor (B) regions? What should the poor regions focus on to become wealthier? Let's find out what our data say.
 
-![Image](./pics/gdp.png)
+![Image](./blog/gdp.png)
 
 <img src="./pics/gdp.png" width="800" height="300" />
 
