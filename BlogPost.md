@@ -90,31 +90,28 @@ In order to catch up, the Group B regions should focus on education to speed up 
 As a last note, it is worth to see how different countries in the same region can differ internally. For example, considering Europe, the West European countries have generally better GDP indicators than East European countires, which is due to longer period of prosperity, democratic or republic systems and consideration for the law in case of West European countries. This draws the conclussion that in greater pace and chance of achieving success in building economical prosperity, cultural, social and especially political situation plays an important role.
 
 ## 2. What can we do to limit infant mortality?
+Infant mortality is defined as the death of young children under the age of 1. This death toll is measured by the **Infant Mortality Rate (IMR)**, which is the number of deaths of children under one year of age per 1000 live births. 
 
 ![Image](./pics/infmortality.png)
 
+In the 21st century, in the age of robotics, genetics and sophisticated healthcare the infant mortality rate should be really low. But there are still countries in the world where on average 160 or more per 1000 infants die during the first year after birth (i.e. Angola - 191, Afganistan - 163 on average). This is especially true for regions like Asia and Africa.
+
 ![Image](./pics/infant_mortality.png)
+
+Based on the world dataset, infant mortality is strictly related to the GDP and rates of different economical models representing a give nation. In general, nations with lower GDP, greater ratios of agriculture sector, lower ratios of service sector and lower literacy level have greater infant mortality. 
+
+The poorer the nation is, the greater chance of premature mortality exists. The more educated and wealthy the nation is, the more chance infants have to survive. It may sound obvious, but poorer nations have as well greater birth rate in general which also results in greater ratio of infant mortality. 
 
 ![Image](./pics/infmortality_per_country.png)
 
 ![Image](./pics/gdp_per_country.png)
 
-![Image](./pics/infant_mortality_influencers.png)
+Looking at the world maps of mortality and GDP, we see they are like inverse of each other. Countries with greater GDP have lower infant mortality and vice versa.
 
-Infant mortality is defined as the death of young children under the age of 1. This death toll is measured by the Infant Mortality Rate (IMR), which is the number of deaths of children under one year of age per 1000 live births. In the 21st century, in the age of robotics, genetics and sophisticated healthcare the infant mortality rate should be really low. But there are still countries in the world where on average 160 or more per 1000 infants die during the first year after birth (i.e. Angola - 191, Afganistan - 163 on average). This is especially true for regions like Asia and Africa.
-
-Based on the world dataset, infant mortality is strictly related to the GDP and rates of different economical models representing a give nation. In general, nations with lower GDP, greater ratios of agriculture sector, lower ratios of service sector and lower literacy level have greater infant mortality. 
-
-The more poor the nation is, the greater chance of premature mortality exists. The more educated and wealthy the nation is, the more chance infants have to survive. It may sound obvious, but poorer nations have greater birth rate in general which also results in greater ratio of infant mortality. 
-
-Looking at the world maps of mortality and gdp we see they are like inverse of each other. Countries with greater GDP have lower infant mortality and vice versa.
-
-In this context, it is important to that richer and more developed countries help the poorer ones both economically and especially in terms of education. The more aware and enlightened people become, the bigger care they will put into proper health-care infrastructure and treatment (vaccination, healthy life style and medical examinations during pregnancy, breastfeeding, etc.), and as a result the more chance to survive infants will be given.
+In this context, it is important that richer and more developed countries help the poorer ones both economically and especially in terms of education. The more aware and enlightened people become, the bigger care they will put into proper health-care infrastructure and treatment (vaccination, healthy life style and medical examinations during pregnancy, breastfeeding, etc.), and as a result the more survival chance the infants will have.
 
 ## 3. What are the most significant predictors determining country's GDP per capita, the key indicator of economic development of any country?
 
 ![Image](./pics/xgbfimportance.png)
 
-The most important features used by a XGBoost model used to predict GDP are: phones (the wealthest nation is the more phones it has), infant mortality (poorer countries have greater IMR than wealthier countries), the fact that a country is in Latin America region (I do not know why this one is so important), the agriculture score, the level of literacy and birthrate. Using these features, the XGBoost model was able to get R squared score of 0.79 on test data.
-
-zakonczenie ogolne?
+To predict GDP based on other data gathered in the World dataset, a XGBoost model has been used. The most important features used by the model used to predict GDP are: phones (the wealthest nation is the more phones it has), infant mortality (poorer countries have greater IMR than wealthier countries), the fact that a country is in Latin America region (I do not know why this one is so important), the agriculture score, the level of literacy and birthrate (explained above). Using these features, the XGBoost model was able to get quite good R Squared Score of 0.79 on test data (the maximum is 1.0).
