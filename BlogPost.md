@@ -27,7 +27,7 @@ Going further, some interesting questions arise: What are the distinguishing tra
 
 ![Image](./pics/gdp.png)
 
-<img src="./pics/gdp.png" width="1800" height="300" />
+<img src="./pics/gdp.png" height="300" />
 
 Within the Group A regions, Eastern European countries are the poorest ones which is represented by a hump in the left slope of the Europe's distribution. North America countries seem to be more left skewed towards higher GDP. The majority of Group A countries have GDP above 20000. The The Luxemburg's GDP of 55100 stays above all. This is a very good result for this small European country. 
 
