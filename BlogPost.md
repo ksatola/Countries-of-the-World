@@ -1,25 +1,27 @@
 # Exploring Countries of the World Dataset
 ![Image](./pics/gdp_per_region_median.png)
 
-The dataset is the World's fact sheet including information on population, region, area size, infant mortality and more from [CIA World Factbook 2013](http://gsociology.icaap.org/dataupload.html).
-
-
-Inspiration
-When making visualisations related to countries, sometimes it is interesting to group them by attributes such as region, or weigh their importance by population, GDP or other variables.
-
-In this project, I explore [Countries of the Worlds Kaggle dataset](https://www.kaggle.com/fernandol/countries-of-the-world) to answer the following questions:
+The world around us is fascinating and diverse. When I found out about the Countries of the World dataset I decided to take this opportunity to dig dipper inside it and answer a few questions which were in my mind:
 
 1. Wealthy vs. Poor Regions: What are the Differences?
 2. What Can We Do to Limit Infant Mortality?
 3. Machine Learning: What are the most significant predictors determining country's GDP per capita, the key indicator of economic development of any country?
 
+The dataset is the World's fact sheet including information on population, region, area size, infant mortality and more from [CIA World Factbook 2013](http://gsociology.icaap.org/dataupload.html).
 
-### 1. Wealthy vs. Poor Regions: What are the Differences?
-There is one simgle measure of prosperity used in today's economy: GDP (Gross Domestic Product). In our case, GDP is reflected in U.S. dollars per capita. It represents the value of all final goods and services produced within a nation in a given year (2013 in our case), converted at market exchange rates to current U.S. dollars, divided by the average population for the same year.
+Let's address each of the questions and try to find answers based on the dataset.
+
+## 1. Wealthy vs. Poor Regions: What are the Differences?
+There is one simgle measure of prosperity used in today's economy: **GDP (Gross Domestic Product)**. In the dataset, GDP is reflected in U.S. dollars per capita. It represents the value of all final goods and services produced within a nation in a given year (the dataset covers 2013 year), converted at market exchange rates to current U.S. dollars, divided by the average population for the same year.
 
 ![Image](./pics/gdp_per_region_median.png)
 
-Looking at the world's GDP per capita, we can cluster two groups of regions with a cut at GDP level of 10000: wealthier ones (Northern America and Europe) and poorer ones (Middle East, Latin America and the Caribbean, Oceania, Asia, Africa). In the poorer regions there are also wealthy countries (like Australia in Oceania with GDP of 29000 or Hong Kong and Japan in Asia with GDP above 28000) that is why focusing on a question related to poorer countries in regions, I have used median which is less prone to outliers. Let's call the wealthier regions Group A and the rest Group B.
+Looking at the world's GDP per capita, we can cluster two groups of regions with a cut at GDP level of 10000: 
+
+- wealthier ones (Northern America and Europe) and 
+- poorer ones (Middle East, Latin America and the Caribbean, Oceania, Asia, Africa). 
+
+In the poorer regions there are also wealthy countries (like Australia in Oceania with GDP of 29000 or Hong Kong and Japan in Asia with GDP above 28000) that is why focusing on a question related to poorer countries in regions, I have used median which is less prone to outliers. Let's call the wealthier regions **Group A** and others **Group B**.
 
 Going further, some interesting questions arise: What are the distinguishing traits of wealthy (A) and poor (B) regions? What should the poor regions focus on to become wealthier? Let's find out what our data say.
 
@@ -107,7 +109,7 @@ Looking at the world maps of mortality and gdp we see they are like inverse of e
 
 In this context, it is important to that richer and more developed countries help the poorer ones both economically and especially in terms of education. The more aware and enlightened people become, the bigger care they will put into proper health-care infrastructure and treatment (vaccination, healthy life style and medical examinations during pregnancy, breastfeeding, etc.), and as a result the more chance to survive infants will be given.
 
-### 3. What are the most significant predictors determining country's GDP per capita, the key indicator of economic development of any country?
+## 3. What are the most significant predictors determining country's GDP per capita, the key indicator of economic development of any country?
 
 ![Image](./pics/xgbfimportance.png)
 
