@@ -18,10 +18,9 @@ The data comes from the US government and as stated in Their [website](https://w
 
 ## Tools, Software and Libraries
 
-xxx
-
-## Resources
-pliki used
+- Jupyter Notebook
+- Python with Numpy, Pandas, SciPy, Math, Matplotlib, Seaborn, PyArrow, Plotly, Sklearn, Pickle
+- XGBoost Regressor
 
 ## Results
 
