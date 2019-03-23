@@ -1,10 +1,10 @@
-# Countries-of-the-World
+# Countries of the World
 
 ## Overview
 
 In this project, I explore [Countries of the Worlds Kaggle dataset](https://www.kaggle.com/fernandol/countries-of-the-world) to answer the following questions in a blog post:
 
-1. Wealthy vs. Poor Regions, What is the Difference?
+1. Wealthy vs. Poor Regions: What are the Differences?
 2. What Can We Do to Limit Infant Mortality?
 3. Machine Learning: What are the most significant predictors determining country's GDP per capita, the key indicator of economic development of any country?
 
