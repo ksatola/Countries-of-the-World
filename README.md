@@ -24,4 +24,4 @@ The data comes from the US government and as stated in Their [website](https://w
 
 ## Results
 
-My answers to the questions above can be found the [this blog post](https://github.com/ksatola/Countries-of-the-World/blob/master/BlogPost.md). The technical details are covered in this [Jupyter Notebook](https://github.com/ksatola/Countries-of-the-World/blob/master/workbook.ipynb) ([HTML version](https://ksatola.github.io/projects/CountriesOfTheWorld.html).
+My answers to the questions above can be found the [this blog post](https://github.com/ksatola/Countries-of-the-World/blob/master/BlogPost.md). The technical details are covered in this [Jupyter Notebook](https://github.com/ksatola/Countries-of-the-World/blob/master/workbook.ipynb) ([HTML version](https://ksatola.github.io/projects/CountriesOfTheWorld.html)).
