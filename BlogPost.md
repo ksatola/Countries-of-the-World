@@ -2,7 +2,7 @@
 
 ![Image](./blog/countries_intro2.jpg)
 
-The world around us is fascinating and diverse. When I found out about the Countries of the World dataset I decided to take this opportunity to dig dipper inside it and answer a few questions which were in my mind:
+The world around us is fascinating and diverse. When I found out about the Countries of the World dataset I decided to take this opportunity to dig deeper inside it and answer a few questions which were in my mind:
 
 1. Wealthy vs. Poor Regions: What are the Differences?
 2. What Can We Do to Limit Infant Mortality?
